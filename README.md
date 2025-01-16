@@ -1,9 +1,9 @@
 	
 # Project -   [BLEtoMQTT](https://github.com/CasparvdBroek/BLEtoMQTT/)
 
-	Android BLE MQTT IOT HomeAssistant Bluetooth	
+	Android BLE MQTT IOT HomeAssistant Bluetooth bridge	
 	
-Android foreground service to provide a bidirectional bridge between BLE devices and an MQTT broker. A setup.json file defines MQTT parameters and BLE MAC addresses to scan for.
+Android foreground service (background) to provide a bidirectional bridge between BLE devices and an MQTT broker. A setup.json file defines MQTT parameters and BLE MAC addresses to scan for.
 
 For each BLE device detected BLEtoMQTT will discover all exposed services and characteristics creating MQTT topics for each. Those characteristics which are writeable will automatically be 'subscribed' from the MQTT broker.
 
