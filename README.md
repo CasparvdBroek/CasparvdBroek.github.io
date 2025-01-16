@@ -1,8 +1,7 @@
-# Developer 
-	Hi - I am Caspar van den Broek an enginner from Russell New Zealand. I have listed some of my projects which maybe of use to others. The hope is that additional users will help improve the projects for all.
 	
 # Project -   [BLEtoMQTT](https://github.com/CasparvdBroek/BLEtoMQTT/)
-	Android Application BLE MQTT IOT HomeAssistant	
+
+	Android BLE MQTT IOT HomeAssistant Bluetooth	
 	
 Android foreground service to provide a bidirectional bridge between BLE devices and an MQTT broker. A setup.json file defines MQTT parameters and BLE MAC addresses to scan for.
 
