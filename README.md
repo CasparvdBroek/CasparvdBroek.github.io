@@ -9,8 +9,8 @@ For each BLE device detected BLEtoMQTT will discover all exposed services and ch
 
 Two external libraries are used :
 
-org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5
-com.github.weliem:blessed-android
+	org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5
+	com.github.weliem:blessed-android
 
 
 
